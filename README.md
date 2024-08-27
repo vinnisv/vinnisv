@@ -22,5 +22,5 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
-"Estudante apaixonado por tecnologia, sempre em busca de aprender e criar soluções inovadoras." 👨🏾‍💻
+### "Estudante apaixonado por tecnologia, sempre em busca de aprender e criar soluções inovadoras." 👨🏾‍💻
 
