@@ -23,5 +23,5 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
 
- "Estudante apaixonado por tecnologia, sempre em busca de aprender e criar soluções inovadoras." 👨🏾‍💻
+ #### _"Estudante apaixonado por tecnologia, sempre em busca de aprender e criar soluções inovadoras."_ 👨🏾‍💻
 
